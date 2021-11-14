@@ -7,3 +7,5 @@ The goal of this challenge was to analyize the standardized testing results from
 ## Deliverable 1: Replace Thomas High School's 9th-grade reading and math scores with Nan
 ---
 We used the loc method to select all the reading and math scores from the ninth grade at Thomas High School. Inside the the loc method a comparison operator was used to retreive all the rows with Thomas High School, logical and comparison operators were used to retrieve all the rows with the "reading_score" and "math_score" column. The reading and math score for the ninth graders in THomas High School are replaced with Nans. The code and table can be seen below. 
+
+https://user-images.githubusercontent.com/48603147/141702225-12f367e8-b347-435e-877d-cb0b6db13264.png
