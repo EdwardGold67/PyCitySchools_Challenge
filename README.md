@@ -50,6 +50,7 @@ Next to calclate the top 5 and bottom 5 I replaced the new data from Thomas High
 ### The Average math score and reading for each grade level from each school
 I calculated the average math and reading score for each grade level with the new total student count and by creating a series of scores by grade level.
 ![series of scores by grade level](https://user-images.githubusercontent.com/48603147/141720038-6bf8bf59-c671-493f-8f8b-ba58cf2d8c80.png)
+![math scorers by grade level](https://user-images.githubusercontent.com/48603147/141720200-c5e5697c-7503-4576-9a67-9d2054e81295.png)
 
 ## Results
 
