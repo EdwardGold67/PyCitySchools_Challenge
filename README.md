@@ -13,12 +13,12 @@ We used the loc method to select all the reading and math scores from the ninth 
 
  ## Deliverable 2: Repeat the School District Analysis
 In this section, we reanalyzed the following metrics:
-*The District summary
-*The school summary
-*The top 5 and bottom 5 performing schools, based on the overall passing rate
-*The average reading score for each grade level from each school
-*The average math score for each grade level from each school
-*The scores by school spending per student, by school size and by school type
+* The District summary
+* The school summary
+* The top 5 and bottom 5 performing schools, based on the overall passing rate
+* The average reading score for each grade level from each school
+* The average math score for each grade level from each school
+* The scores by school spending per student, by school size and by school type
 
 ---
 ### The District summary
