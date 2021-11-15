@@ -43,3 +43,5 @@ After calculating the total number of students in 10th, 11th and 12th grade I ca
 
 Next I calculated the percentage of 10th to 12th graders who passed readiing, math and the overall passing percentage by exluding the 9th grades data as seen below
 ![calculate percentage of passsing tests 10th - 12th](https://user-images.githubusercontent.com/48603147/141708206-a1b7ad46-4dbe-4e5a-992c-53db03ec58a3.png)
+
+Next to calclate the top 5 and bottom 5 I replaced the new data from Thomas High School in the per_school_summary_df by using the loc function and used ascending=False.head(5) to find the top five schools and ascending=True.head(5) to find the bottom five schools.
