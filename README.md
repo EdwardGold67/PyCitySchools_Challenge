@@ -31,3 +31,14 @@ Using the new student total and recalculated math, reading  and overall passing 
 ### The school summary
 Using the same methods from previous examples I created a data frame, including the data metrics: School Type, total studemts, total school budget, per student budget, average math score, average reading score, passing math percentage, passing reading percentage and overall passing percentage. I formatted the school budget and per student budget to include the dollar sign and set the values to show to the hundreds place. You can see the data in the following screenshot.
 ![School Summary table](https://user-images.githubusercontent.com/48603147/141706549-1af6d69f-acc7-40a8-8ce3-a27a1a37f7df.png)
+
+### The top 5 and bottom 5 performing schools, based on the overall passing rate
+To find the top 5 and bottom 5 perfoming schools, I recalucated the passing math percentage, passing reading percentage and overall passing percentage of Thomas High School and entered the new data into the school summary data frame. 
+
+After calculating the total number of students in 10th, 11th and 12th grade I calculated the number of those students who passed math and reading. 
+* Total number of students in 10th - 12th grade: 1174
+* Passing reading: 1094
+* Passing math: 1139
+
+
+passing by exluding the 9th grade data. 
