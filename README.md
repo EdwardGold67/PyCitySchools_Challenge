@@ -45,3 +45,4 @@ Next I calculated the percentage of 10th to 12th graders who passed readiing, ma
 ![calculate percentage of passsing tests 10th - 12th](https://user-images.githubusercontent.com/48603147/141708206-a1b7ad46-4dbe-4e5a-992c-53db03ec58a3.png)
 
 Next to calclate the top 5 and bottom 5 I replaced the new data from Thomas High School in the per_school_summary_df by using the loc function and used ascending=False.head(5) to find the top five schools and ascending=True.head(5) to find the bottom five schools.
+![top 5 and bottom 5 school](https://user-images.githubusercontent.com/48603147/141708907-196c97c4-d2a3-4cbe-8ff7-b35686879c74.png)
