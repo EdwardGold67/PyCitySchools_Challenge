@@ -3,6 +3,10 @@ Week 4 for Coloumbia's DS bootcamp
 ## Overview of PyCityShcools Challenge
 The goal of this challenge was to analyize the standardized testing results from a large number of schools state-wide. The test results covered both Math and Reading from 9th to 12th grade and the purpose of this analysis was to see how removing test results from Thomas High School's 9th grade class affect the overall results we obtained from the assignment in Module 4. In Module 4 we found the overall passing percentage of the students and determine whether there is any correlation with the budget per student using numpy-python.
 
+## Results
+
+How is the district summary affected
+* 
 
 ## Deliverable 1: Replace Thomas High School's 9th-grade reading and math scores with Nan
 ---
@@ -21,6 +25,7 @@ In this section, we reanalyzed the following metrics after exluding the 9th-grad
 * The scores by school spending per student, by school size and by school type
 
 ---
+
 ### The District summary
 Recalculated total student count by subtracting the number of ninth-grade students in Thomas High School from the total student count, then recalulated the passing math and passing reading percentages and overall passing percentage.
 ![new student total](https://user-images.githubusercontent.com/48603147/141705852-678ebf7e-d842-4f59-8aac-9a7679a22b83.png)
@@ -46,3 +51,5 @@ Next I calculated the percentage of 10th to 12th graders who passed readiing, ma
 
 Next to calclate the top 5 and bottom 5 I replaced the new data from Thomas High School in the per_school_summary_df by using the loc function and used ascending=False.head(5) to find the top five schools and ascending=True.head(5) to find the bottom five schools.
 ![top 5 and bottom 5 school](https://user-images.githubusercontent.com/48603147/141708907-196c97c4-d2a3-4cbe-8ff7-b35686879c74.png)
+
+### The Average math score for each grade level from each school
