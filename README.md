@@ -24,3 +24,6 @@ In this section, we reanalyzed the following metrics after exluding the 9th-grad
 ### The District summary
 Recalculated total student count by subtracting the number of ninth-grade students in Thomas High School from the total student count, then recalulated the passing math and passing reading percentages and overall passing percentage.
 ![new student total](https://user-images.githubusercontent.com/48603147/141705852-678ebf7e-d842-4f59-8aac-9a7679a22b83.png)
+
+Using the new student total I recalculated the passing math, passing reading  and overall passing percentage
+![district_summary_df](https://user-images.githubusercontent.com/48603147/141705938-3b300af6-a89b-412a-900e-de17547c39a2.png)
