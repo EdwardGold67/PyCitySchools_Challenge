@@ -39,6 +39,6 @@ After calculating the total number of students in 10th, 11th and 12th grade I ca
 * Total number of students in 10th - 12th grade: 1174
 * Passing reading: 1094
 * Passing math: 1139
-
+![total student](https://user-images.githubusercontent.com/48603147/141708068-ea46a1cb-70b2-48ae-a546-5e2bb749994b.png)
 
 passing by exluding the 9th grade data. 
