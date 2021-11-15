@@ -11,4 +11,5 @@ We used the loc method to select all the reading and math scores from the ninth 
 ![Replace 9th grade math and reading scores.png](https://user-images.githubusercontent.com/48603147/141702225-12f367e8-b347-435e-877d-cb0b6db13264.png)
 ---
 
- 
+ ##Deliverable 2: Repeat the School District Analysis
+In this section, we reanalyzed the following metrics:
