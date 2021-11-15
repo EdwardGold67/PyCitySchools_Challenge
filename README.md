@@ -73,6 +73,6 @@ How does replacing the ninth-grade scores affect the following?
 
 
 
-###Summary
+### Summary
 
 Overall, replacing all of Thomas High Schools 9th grade math and reading test results with NaN has negatively affected a number of data points; Thomas High Schools rankings for the overall percentage of passing students dropped from 2nd best to 8th worst. In addition their malpractice negatively affected the ratings for charter schools and school sizes in the range of 1000 to 2000 kids. 
