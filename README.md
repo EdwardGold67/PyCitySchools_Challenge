@@ -12,7 +12,7 @@ We used the loc method to select all the reading and math scores from the ninth 
 ---
 
  ## Deliverable 2: Repeat the School District Analysis
-In this section, we reanalyzed the following metrics:
+In this section, we reanalyzed the following metrics after exluding the 9th-graders test results:
 * The District summary
 * The school summary
 * The top 5 and bottom 5 performing schools, based on the overall passing rate
