@@ -47,8 +47,8 @@ Next I calculated the percentage of 10th to 12th graders who passed readiing, ma
 Next to calclate the top 5 and bottom 5 I replaced the new data from Thomas High School in the per_school_summary_df by using the loc function and used ascending=False.head(5) to find the top five schools and ascending=True.head(5) to find the bottom five schools.
 ![top 5 and bottom 5 school](https://user-images.githubusercontent.com/48603147/141708907-196c97c4-d2a3-4cbe-8ff7-b35686879c74.png)
 
-### The Average math score for each grade level from each school
-
+### The Average math score and reading for each grade level from each school
+I calculated the average math and reading score for each grade level with the new total student count and by creating a series of scores by grade level.
 
 ## Results
 
