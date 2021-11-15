@@ -3,11 +3,6 @@ Week 4 for Coloumbia's DS bootcamp
 ## Overview of PyCityShcools Challenge
 The goal of this challenge was to analyize the standardized testing results from a large number of schools state-wide. The test results covered both Math and Reading from 9th to 12th grade and the purpose of this analysis was to see how removing test results from Thomas High School's 9th grade class affect the overall results we obtained from the assignment in Module 4. In Module 4 we found the overall passing percentage of the students and determine whether there is any correlation with the budget per student using numpy-python.
 
-## Results
-
-How is the district summary affected
-* 
-
 ## Deliverable 1: Replace Thomas High School's 9th-grade reading and math scores with Nan
 ---
 We used the loc method to select all the reading and math scores from the ninth grade at Thomas High School. Inside the the loc method a comparison operator was used to retreive all the rows with Thomas High School, logical and comparison operators were used to retrieve all the rows with the "reading_score" and "math_score" column. The reading and math score for the ninth graders in THomas High School are replaced with Nans. The code and table can be seen below. 
@@ -53,3 +48,31 @@ Next to calclate the top 5 and bottom 5 I replaced the new data from Thomas High
 ![top 5 and bottom 5 school](https://user-images.githubusercontent.com/48603147/141708907-196c97c4-d2a3-4cbe-8ff7-b35686879c74.png)
 
 ### The Average math score for each grade level from each school
+
+
+## Results
+
+How is the district summary affected
+*  Original Data to After data clean up: Average Math Score 79.0 to 78.9, Average Reading Score stayed the same, % Passing Math went from 75 to 74, % passing reading went from 86 to 85, % Overall Passing 64 to 65
+How is the school summary affected?
+* Thomas High School overall passing percent went from 90.95% down to 65.08% after removing 9th grades testing results. Going from placing 2nd to 8th
+How does replacing the ninth graders math and reading scores affect Thomas High Schools performance relative to the other schools?
+* Thomas High School % passing math went from 93.27% down to 66.91% and their % passing reading went from 97.31% (which was 2nd best amoung all other schools) down to 69.66%
+How does replacing the ninth-grade scores affect the following?
+* Math and reading score by grade: Math grade for 9th graders went from 80.34% down to 80.12% and reading did not change much. (???? confused)
+* Scores by school spending: Thomas High school was in the $630 to $644 spending range and was one of four high schools in that range, their % passing math was higher then the average prior to omitting the 9th grade test results and so reduced the averages for schools in that range when the test results dropped from 90.95% down to 65.08%
+* Scores by school type: Thomas High school, as it is a charter school, negatively affected the passing math percentage and passing reading percentage
+ * % passing math went from 73% down to 67%
+ * % passing reading went from 84% down t 77%
+ * % overall went from 63% down to 56%
+* Scores by school size:
+ * Thomas High School is in the 1000 to 2000 range
+ * % passing math went from 94% down to 88%
+ * % passing reading went from 97% down to 91%
+ * % overall went from 91% down to 85%
+
+
+
+###Summary
+
+Overall, replacing all of Thomas High Schools 9th grade math and reading test results with NaN has negatively affected a number of data points; Thomas High Schools rankings for the overall percentage of passing students dropped from 2nd best to 8th worst. In addition their malpractice negatively affected the ratings for charter schools and school sizes in the range of 1000 to 2000 kids. 
