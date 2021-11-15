@@ -41,4 +41,5 @@ After calculating the total number of students in 10th, 11th and 12th grade I ca
 * Passing math: 1139
 ![total student](https://user-images.githubusercontent.com/48603147/141708068-ea46a1cb-70b2-48ae-a546-5e2bb749994b.png)
 
-passing by exluding the 9th grade data. 
+Next I calculated the percentage of 10th to 12th graders who passed readiing, math and the overall passing percentage by exluding the 9th grades data as seen below
+![calculate percentage of passsing tests 10th - 12th](https://user-images.githubusercontent.com/48603147/141708206-a1b7ad46-4dbe-4e5a-992c-53db03ec58a3.png)
