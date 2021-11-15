@@ -29,5 +29,5 @@ Using the new student total and recalculated math, reading  and overall passing 
 ![district_summary_df](https://user-images.githubusercontent.com/48603147/141705938-3b300af6-a89b-412a-900e-de17547c39a2.png)
 
 ### The school summary
-Using the same methods from previous examples I created a data frame, including the data metrics: School Type, total studemts, total school budget, per student budget, average math score, average reading score, passing math percentage an passing reading percentage. You can see the data in the following screenshot.
+Using the same methods from previous examples I created a data frame, including the data metrics: School Type, total studemts, total school budget, per student budget, average math score, average reading score, passing math percentage, passing reading percentage and overall passing percentage. I formatted the school budget and per student budget to include the dollar sign and set the values to show to the hundreds place. You can see the data in the following screenshot.
 ![School Summary table](https://user-images.githubusercontent.com/48603147/141706549-1af6d69f-acc7-40a8-8ce3-a27a1a37f7df.png)
